@@ -102,7 +102,7 @@ main aside ul li:after {
 	height: 37px;
 	border-radius: 18px;
 	box-shadow: 0 -3px 0px 1px white;
-	background: url('../images/sprites.svg') no-repeat -5px -6px / 350px #00aaff;
+	background: url(../images/sprites.svg) no-repeat -5px -6px / 350px #00aaff;
 }
 
 h2.profile:after {
@@ -233,7 +233,7 @@ header aside ul li:before {
 	top: 0;
 	width: 24px;
 	height: 24px;
-	background: url('../images/sprites.svg') no-repeat 0px 0px / 300px transparent;
+	background: url(../images/sprites.svg) no-repeat 0px 0px / 300px transparent;
 	-webkit-filter: invert(100%);
 	filter: invert(100%);
 }
